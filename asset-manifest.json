@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f8baecd.css",
+    "main.js": "/static/js/main.8b73d098.js",
+    "static/js/787.f840ea95.chunk.js": "/static/js/787.f840ea95.chunk.js",
+    "static/media/pink-fluid-min.jpg": "/static/media/pink-fluid-min.9134ff98527a014a77d2.jpg",
+    "static/media/cog.svg": "/static/media/cog.7bbd34bca2331fdb94e1.svg",
+    "static/media/edit-light.svg": "/static/media/edit-light.75d9c16b45cb32333070d12dbe2aa924.svg",
+    "static/media/edit.svg": "/static/media/edit.03456967f640875ae806e007fbf02c8a.svg",
+    "static/media/search.svg": "/static/media/search.f0e1c906b83f840c87cd.svg",
+    "index.html": "/index.html",
+    "static/media/plus-light.svg": "/static/media/plus-light.82d413289ab7ff0711a9e594856cf38f.svg",
+    "static/media/plus.svg": "/static/media/plus.ca6bf776f5629eb0625273552a8eb123.svg",
+    "static/media/small_white_close-light.svg": "/static/media/small_white_close-light.91a4278587c5e79756bc7bc5c42af20c.svg",
+    "static/media/current-background-tick-light.svg": "/static/media/current-background-tick-light.50f305dd8ceb8b896ddb.svg",
+    "static/media/current-background-tick.svg": "/static/media/current-background-tick.2afc2c0cc99455e0c8e8.svg",
+    "static/media/small_white_close.svg": "/static/media/small_white_close.0188d00fd15346e1e90ec7bb8f742f36.svg",
+    "static/media/close_button.svg": "/static/media/close_button.cce5bd175f005f5d554c.svg",
+    "main.4f8baecd.css.map": "/static/css/main.4f8baecd.css.map",
+    "main.8b73d098.js.map": "/static/js/main.8b73d098.js.map",
+    "787.f840ea95.chunk.js.map": "/static/js/787.f840ea95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f8baecd.css",
+    "static/js/main.8b73d098.js"
+  ]
+}
